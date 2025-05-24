@@ -1,0 +1,71 @@
+Create a full-featured **ReactJS** website for **La Bamba Country Resort**, a peaceful breakfast destination located in **Kapchorwa, Uganda**. Use **React functional components**, **CSS modules** or standard CSS, and organize the project with clean component structure. Use placeholder images (we will replace them later), and include the following sections:
+
+---
+
+🌄 Homepage:
+- Welcome headline: “La Bamba Country Resort”
+- Subheadline: “Tranquility & Taste in the Heart of Kapchorwa”
+- Background image (use a scenic nature placeholder)
+- Brief description:  
+  "La Bamba Country Resort is a hidden gem nestled in the lush landscapes of Kapchorwa, Uganda. Known for its serene atmosphere and delicious breakfasts, we offer both traditional Ugandan and continental options."
+
+---
+
+🏡 About Section:
+- Describe the cozy, confidential environment ideal for peaceful mornings or casual meetings.
+- Highlight excellent service and warm hospitality.
+
+---
+
+🍳 Menu Section:
+- A breakfast menu that lists:
+  - Ugandan Rolex with Fresh Juice
+  - Chapati & Beans
+  - Full Continental Breakfast (Eggs, Toast, Fruit)
+  - Tea, Coffee, and Fresh Juice Selection
+- Use cards or a grid to style the menu items.
+
+---
+
+🚶‍♀️ Activities Section:
+- Mention nearby hiking trails and cultural experiences in Kapchorwa.
+- Emphasize that La Bamba is a great base for exploring the region.
+
+---
+
+🖼️ Gallery Section:
+- Display 3–6 placeholder images (nature, breakfast, resort) using a simple image grid or slider (can use a basic library like `react-slick` or manual implementation).
+
+---
+
+📞 Contact Section:
+- Include:
+  - Phone: 0772 448472
+  - Email: labambacountryresort1@gmail.com
+  - Simple contact form (name, email, message — no backend submission required)
+  - Placeholder for Google Maps embed
+
+---
+
+🔗 Footer:
+- Add social media links:
+  - Instagram: https://www.instagram.com/labambacrk
+  - Facebook: https://www.facebook.com/Labambacountryresortkapchorwa/
+
+---
+
+🎨 Design Guidelines:
+- Use earthy, nature-inspired colors (greens, browns, beige).
+- Clean, mobile-responsive layout.
+- Calming typography and simple navigation.
+- Add transitions or subtle animations for modern feel.
+
+---
+
+📁 Project Structure:
+- `src/components/` → Individual React components (Navbar, Header, About, Menu, etc.)
+- `src/App.js` → Main layout and routing
+- `src/index.js` → Entry point
+- `src/styles/` → CSS or CSS modules (or Tailwind if you prefer)
+
+Use only React (no Redux or advanced state unless necessary). Keep code modular and well-commented. Keep it easy to expand later (e.g., by adding a booking page).
